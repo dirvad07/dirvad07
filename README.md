@@ -25,7 +25,7 @@
 
 > *"Engineering practical software systems while continuously expanding my capabilities in Full-Stack Development, Artificial Intelligence, Machine Learning and Data Structures."*
 
-```text
+
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                DIRVA DHAMELIYA // PROFILE                            ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣

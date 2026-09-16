@@ -4,7 +4,7 @@
 <!--                    HEADER / BANNER                         -->
 <!-- ========================================================= -->
 
-<img src="assets/banner.png" width="100%" alt="Dirva Dhameliya Developer Banner"/>
+<img src="assets/ban.png" width="100%" alt="Dirva Dhameliya Developer Banner"/>
 
 <br/>
 

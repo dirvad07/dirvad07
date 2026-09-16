@@ -37,7 +37,6 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 
-
 <!-- ========================================================= -->
 <!--              🚀 MISSION CONTROL / PROJECTS                -->
 <!-- ========================================================= -->
@@ -47,15 +46,11 @@
 <table>
 <tr>
 
-<!-- ========================= PROJECT 01 ========================= -->
-
 <td width="50%" valign="top">
 
 <h3>🚜 01. KrishiMitra</h3>
 
-<p>
-<b>Domain:</b> Artificial Intelligence &amp; Full-Stack Development
-</p>
+<p><b>Domain:</b> AI &amp; Full-Stack Development</p>
 
 <p>
 <b>Tech:</b>
@@ -68,25 +63,19 @@
 </p>
 
 <ul>
-<li>Built an AI-powered agriculture platform to help farmers monitor crop health, farm activities, expenses, and agricultural alerts.</li>
-
-<li>Integrated image-based crop disease detection with confidence scores, severity levels, and treatment recommendations.</li>
-
-<li>Developed an AI assistant using Ollama (Qwen3) to provide agriculture-related guidance and recommendations.</li>
+<li>AI platform for crop health and farm management.</li>
+<li>Image-based crop disease detection with treatment recommendations.</li>
+<li>AI agriculture assistant powered by Ollama (Qwen3).</li>
 </ul>
 
 </td>
 
 
-<!-- ========================= PROJECT 02 ========================= -->
-
 <td width="50%" valign="top">
 
 <h3>🏫 02. Smart Campus</h3>
 
-<p>
-<b>Domain:</b> Education Management &amp; Web Application
-</p>
+<p><b>Domain:</b> Education Management</p>
 
 <p>
 <b>Tech:</b>
@@ -96,11 +85,9 @@
 </p>
 
 <ul>
-<li>Built a Python-based web application to manage college academic activities digitally.</li>
-
-<li>Enabled role-based login for Students, Mentors (Faculty), and HOD for secure access.</li>
-
-<li>Integrated SQLite database to securely manage student, faculty, attendance, and academic records.</li>
+<li>Digital platform for managing college academic activities.</li>
+<li>Role-based login for Students, Faculty, and HOD.</li>
+<li>SQLite database for student, faculty, and attendance records.</li>
 </ul>
 
 </td>
@@ -110,15 +97,11 @@
 
 <tr>
 
-<!-- ========================= PROJECT 03 ========================= -->
-
 <td width="50%" valign="top">
 
 <h3>🏥 03. Hospital Management System</h3>
 
-<p>
-<b>Domain:</b> Healthcare Management &amp; Database Systems
-</p>
+<p><b>Domain:</b> Healthcare &amp; Database Management</p>
 
 <p>
 <b>Tech:</b>
@@ -127,25 +110,19 @@
 </p>
 
 <ul>
-<li>Created a Hospital Management System to manage patient records, doctor details, and appointment scheduling.</li>
-
-<li>Applied data structures and database concepts for efficient data storage and retrieval.</li>
-
-<li>Utilized object-oriented programming principles to ensure modular and maintainable code.</li>
+<li>Manages patient records, doctors, and appointments.</li>
+<li>Uses data structures for efficient data management.</li>
+<li>Built with modular object-oriented programming.</li>
 </ul>
 
 </td>
 
 
-<!-- ========================= PROJECT 04 ========================= -->
-
 <td width="50%" valign="top">
 
 <h3>🎫 04. Event Management System</h3>
 
-<p>
-<b>Domain:</b> Event Management &amp; Web Development
-</p>
+<p><b>Domain:</b> Event Management &amp; Web Development</p>
 
 <p>
 <b>Tech:</b>
@@ -155,12 +132,21 @@
 </p>
 
 <ul>
-<li>Developed a responsive Event Management website using HTML, CSS, and JavaScript.</li>
-
-<li>Implemented event registration, scheduling, and participant management functionality.</li>
-
-<li>Designed a user-friendly interface for academic, technical, cultural, and sports events.</li>
+<li>Responsive website for managing college events.</li>
+<li>Event registration and participant management.</li>
+<li>Supports academic, technical, cultural, and sports events.</li>
 </ul>
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
 
 </td>
 

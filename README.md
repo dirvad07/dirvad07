@@ -284,3 +284,121 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 </div> <ul> <li>💻 <b>Frontend Development:</b> Responsive interfaces using HTML, CSS, JavaScript, React and Bootstrap.</li> <li>⚙️ <b>Backend Development:</b> REST APIs and server-side applications using Node.js and Express.js.</li> <li>🗄️ <b>Database Integration:</b> CRUD operations and data management using MongoDB, MySQL and SQLite.</li> <li>🔐 <b>Application Development:</b> Authentication, API integration and full-stack application architecture.</li> </ul> 
+
+
+
+<!-- ========================================================= -->
+<!--                 📜 VERIFIED CERTIFICATIONS                -->
+<!-- ========================================================= -->
+
+<h2>📜 Verified Certifications</h2>
+
+<ul>
+
+<li>
+🐍 <b>Python for Data Science, AI &amp; Development</b> — <i>IBM</i>
+</li>
+
+<li>
+🌐 <b>Introduction to HTML, CSS &amp; JavaScript</b> — <i>IBM</i>
+</li>
+
+<li>
+🗄️ <b>Database Structures and Management with MySQL</b> — <i>Meta</i>
+</li>
+
+<li>
+☕ <b>Inheritance and Data Structures in Java</b> — <i>University of Pennsylvania</i>
+</li>
+
+</ul>
+
+
+<br/>
+
+<div align="center">
+
+<span>🔹</span>
+
+</div>
+
+<br/>
+
+
+<!-- ========================================================= -->
+<!--                    🌐 CONNECT MATRIX                      -->
+<!-- ========================================================= -->
+
+<h2>🌐 Connect Matrix</h2>
+
+<table align="center">
+
+<tr>
+<th>Channel</th>
+<th>Address / Handle</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>💻 GitHub</td>
+<td><code>@dirvad07</code></td>
+<td>
+<a href="https://github.com/dirvad07">github.com/dirvad07</a>
+</td>
+</tr>
+
+<tr>
+<td>💼 LinkedIn</td>
+<td><code>Dirva Dhameliya</code></td>
+<td>
+<a href="https://www.linkedin.com/">LinkedIn</a>
+</td>
+</tr>
+
+<tr>
+<td>📧 Email</td>
+<td><code>YOUR_EMAIL</code></td>
+<td>
+<a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
+</td>
+</tr>
+
+</table>
+
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/dirvad07">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
+<br/>
+<br/>
+
+
+<!-- ========================================================= -->
+<!--                    ⚡ FINAL CONSOLE                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+```text
+══════════════════════════════════════════════════════════════════
+
+                 ⚡ BUILD • INNOVATE • OPTIMIZE • SCALE ⚡
+                    "Constant learning. Intelligent building."
+
+══════════════════════════════════════════════════════════════════

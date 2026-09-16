@@ -252,3 +252,35 @@
 
 </tr>
 </table>
+
+
+<!-- ========================================================= -->
+<!--              🌐 FULL-STACK DEVELOPMENT LAB                -->
+<!-- ========================================================= -->
+
+<h2>🌐 Full-Stack Development Lab</h2>
+
+<hr>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║              FULL-STACK DEVELOPMENT WORKSPACE               ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  FRONTEND                                                    ║
+║  HTML • CSS • JavaScript • React • Bootstrap • Tailwind      ║
+║                                                              ║
+║  BACKEND                                                     ║
+║  Node.js • Express.js • REST APIs                            ║
+║                                                              ║
+║  DATABASE                                                    ║
+║  MongoDB • MySQL • SQLite                                   ║
+║                                                              ║
+║  DEVELOPMENT                                                 ║
+║  Git • GitHub • API Integration • Authentication             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+</div> <ul> <li>💻 <b>Frontend Development:</b> Responsive interfaces using HTML, CSS, JavaScript, React and Bootstrap.</li> <li>⚙️ <b>Backend Development:</b> REST APIs and server-side applications using Node.js and Express.js.</li> <li>🗄️ <b>Database Integration:</b> CRUD operations and data management using MongoDB, MySQL and SQLite.</li> <li>🔐 <b>Application Development:</b> Authentication, API integration and full-stack application architecture.</li> </ul> ```

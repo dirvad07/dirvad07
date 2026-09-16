@@ -325,6 +325,10 @@
 <br/>
 
 
+
+
+
+
 <!-- ========================================================= -->
 <!--                    🌐 CONNECT MATRIX                      -->
 <!-- ========================================================= -->
@@ -343,7 +347,9 @@
 <td>💻 GitHub</td>
 <td><code>@dirvad07</code></td>
 <td>
-<a href="https://github.com/dirvad07">github.com/dirvad07</a>
+<a href="https://github.com/dirvad07">
+github.com/dirvad07
+</a>
 </td>
 </tr>
 
@@ -351,7 +357,9 @@
 <td>💼 LinkedIn</td>
 <td><code>Dirva Dhameliya</code></td>
 <td>
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="YOUR_LINKEDIN_URL">
+linkedin.com/in/YOUR-LINKEDIN-USERNAME
+</a>
 </td>
 </tr>
 
@@ -359,7 +367,9 @@
 <td>📧 Email</td>
 <td><code>dirvadhameliya@gmail.com</code></td>
 <td>
-<a href="mailto:dirvadhameliya@gmail.com">dirvadhameliya@gmail.com</a>
+<a href="mailto:dirvadhameliya@gmail.com">
+dirvadhameliya@gmail.com
+</a>
 </td>
 </tr>
 

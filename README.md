@@ -351,20 +351,19 @@
 <td>💼 LinkedIn</td>
 <td><code>Dirva Dhameliya</code></td>
 <td>
-<a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 </td>
 </tr>
 
 <tr>
 <td>📧 Email</td>
-<td><code>YOUR_EMAIL</code></td>
+<td><code>dirvadhameliya@gmail.com</code></td>
 <td>
-<a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
+<a href="mailto:dirvadhameliya@gmail.com">dirvadhameliya@gmail.com</a>
 </td>
 </tr>
 
 </table>
-
 
 <br/>
 
@@ -374,7 +373,7 @@
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="link: https://github.com/dirvad07">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -383,10 +382,6 @@
 </a>
 
 </div>
-
-
-<br/>
-<br/>
 
 
 <!-- ========================================================= -->

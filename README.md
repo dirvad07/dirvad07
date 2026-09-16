@@ -26,18 +26,12 @@
 > *"Engineering practical software systems while continuously expanding my capabilities in Full-Stack Development, Artificial Intelligence, Machine Learning and Data Structures."*
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                    DIRVA // DEVELOPER PROFILE                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  ► NAME        : Dirva Dhameliya                                    ║
-║  ► DEGREE      : B.Tech Computer Engineering                         ║
-║  ► CURRENT     : 4th Semester                                       ║
-║  ► PRIMARY     : Full-Stack Development                             ║
-║  ► SECONDARY   : Artificial Intelligence / Machine Learning         ║
-║  ► LANGUAGES   : Python • Java • JavaScript                         ║
-║  ► DATABASES   : MongoDB • MySQL • SQLite                            ║
-║  ► CURRENTLY   : DSA • AI/ML • Full-Stack Development                ║
-║  ► STATUS      : Open to Internship Opportunities                    ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                DIRVA DHAMELIYA // PROFILE                            ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║ ► ACADEMIC STATUS   : B.Tech Student in Computer Engineering                         ║
+║ ► TARGET ROLE       : AI/ML Engineer • Frontend Devloper                             ║
+║ ► CORE COMPETENCIES : Python, Java, Data Structures, Machine Learning, SQL           ║
+║ ► CURRENT FOCUS     : Natural Language Processing, Computer Vision & Full-Stack Web   ║
+║ ► AVAILABILITY      : Open for  Frontend Devloper & AI/ML Internships              ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝

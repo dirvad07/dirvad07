@@ -266,7 +266,7 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║              FULL-STACK DEVELOPMENT WORKSPACE               ║
+║              FULL-STACK DEVELOPMENT WORKSPACE                ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  FRONTEND                                                    ║
@@ -276,7 +276,7 @@
 ║  Node.js • Express.js • REST APIs                            ║
 ║                                                              ║
 ║  DATABASE                                                    ║
-║  MongoDB • MySQL • SQLite                                   ║
+║  MongoDB • MySQL • SQLite                                    ║
 ║                                                              ║
 ║  DEVELOPMENT                                                 ║
 ║  Git • GitHub • API Integration • Authentication             ║

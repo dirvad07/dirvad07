@@ -382,10 +382,13 @@ dirvadhameliya@gmail.com
 
 <div align="center">
 
-```text
+<pre>
 ══════════════════════════════════════════════════════════════════
 
-                 ⚡ BUILD • INNOVATE • OPTIMIZE • SCALE ⚡
-                    "Constant learning. Intelligent building."
+             ⚡ BUILD • INNOVATE • OPTIMIZE • SCALE ⚡
+                "Constant learning. Intelligent building."
 
 ══════════════════════════════════════════════════════════════════
+</pre>
+
+</div>

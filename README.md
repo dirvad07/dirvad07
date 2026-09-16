@@ -25,16 +25,17 @@
 
 > *"Engineering practical software systems while continuously expanding my capabilities in Full-Stack Development, Artificial Intelligence, Machine Learning and Data Structures."*
 
-
+```text
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                DIRVA DHAMELIYA // PROFILE                            ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ ► ACADEMIC STATUS   : B.Tech Student in Computer Engineering                         ║
-║ ► TARGET ROLE       : AI/ML Engineer • Frontend Devloper                             ║
+║ ► TARGET ROLE       : AI/ML Engineer • Frontend Developer                            ║
 ║ ► CORE COMPETENCIES : Python, Java, Data Structures, Machine Learning, SQL           ║
 ║ ► CURRENT FOCUS     : Natural Language Processing, Computer Vision & Full-Stack Web  ║
-║ ► AVAILABILITY      : Open for  Frontend Devloper & AI/ML Internships                ║
+║ ► AVAILABILITY      : Open for Frontend Developer & AI/ML Internships                ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 
 <!-- ========================================================= -->

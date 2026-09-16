@@ -357,8 +357,8 @@ github.com/dirvad07
 <td>💼 LinkedIn</td>
 <td><code>Dirva Dhameliya</code></td>
 <td>
-<a href="YOUR_LINKEDIN_URL">
-linkedin.com/in/YOUR-LINKEDIN-USERNAME
+<a href="https://www.linkedin.com/in/dirva-dhameliya-b7154831b/">
+linkedin.com/in/dirva-dhameliya-b7154831b
 </a>
 </td>
 </tr>
@@ -374,24 +374,6 @@ dirvadhameliya@gmail.com
 </tr>
 
 </table>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/dirvad07">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dirva-dhameliya-b7154831b/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dirvadhameliya@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 
 <!-- ========================================================= -->
